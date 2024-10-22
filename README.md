@@ -32,7 +32,7 @@ Algunas de mis skills son:
 <details>
         <summary> Más sobre mi </summary>
 
-  %Se planea agregar cosas sobre el.
+  (Se planea agregar cosas sobre el.) 
 
 
 </details>
