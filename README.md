@@ -1,11 +1,10 @@
-
+<h2>
 
 <img align="right" src="https://media.licdn.com/dms/image/v2/D4E03AQHQYw5xLiYh9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689976987838?e=1735171200&v=beta&t=tbi0tVd-fq8x0osrHTh-4CMLRcw9UFE8kP4vHSnCL8I" width="25%">
 
-
-<h2> Hola, soy Brayan ALberto A. 👋 </h2>
-
-
+ Hola, soy Brayan ALberto A. 👋 
+ 
+ </h2>
 
 ### Estudiante de Ciberseguridad | Programador Junior | Bug Bounty Hunter
 
