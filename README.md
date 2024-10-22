@@ -1,8 +1,9 @@
 
 
-<img align="right" src="https://media.licdn.com/dms/image/v2/D4E03AQHQYw5xLiYh9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689976987838?e=1735171200&v=beta&t=tbi0tVd-fq8x0osrHTh-4CMLRcw9UFE8kP4vHSnCL8I" width="15%">
+<img align="right" src="https://media.licdn.com/dms/image/v2/D4E03AQHQYw5xLiYh9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689976987838?e=1735171200&v=beta&t=tbi0tVd-fq8x0osrHTh-4CMLRcw9UFE8kP4vHSnCL8I" width="25%">
 
-# Hola, soy  👋
+
+<h2> Hola, soy Brayan ALberto A. 👋 </h2>
 
 
 
@@ -14,19 +15,28 @@ Soy estudiante de ciberseguridad con un fuerte interés en la protección de sis
 - 🕵️ **Participación en programas de Bug Bounty**, ayudando a mejorar la seguridad de plataformas.
 - 💻 **Desarrollo de scripts y herramientas** que faciliten la auditoría de seguridad.
 
-### Mis Habilidades:
+## Skills
 
-- **Lenguajes de Programación**: Python, JavaScript, Bash
-- **Pentesting**: OWASP Top 10, Metasploit, Nmap, Wireshark
-- **Herramientas de Seguridad**: Burp Suite, John the Ripper, Hydra
-- **Seguridad Web**: SQL Injection, XSS, CSRF, etc.
+Algunas de mis skills son:
 
-### Proyectos Destacados:
-
-- 🔐 **[Mi proyecto de Pentesting](#)**: Una serie de laboratorios que cubren pruebas de penetración en aplicaciones web y redes.
-- 🚀 **[Herramienta de Escaneo Personalizada](#)**: Un script en Python que automatiza la identificación de vulnerabilidades comunes en redes locales.
+- Multitasking
+- Actitud Positiva
+- Comunicación Bilingue
+- Control de estrés
+- Diligencia
 
 ---
+
+###### ***Sientente libre de contactarme si quieres colaborar conmigo o discutir sobre Ciberseguridad***
+
+
+<details>
+        <summary> Más sobre mi </summary>
+
+  %Se planea agregar cosas sobre el.
+
+
+</details>
 
 ## Licencias
 
@@ -35,7 +45,7 @@ Soy estudiante de ciberseguridad con un fuerte interés en la protección de sis
 
 ---
 
-### Contacto:
+### Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/baguilar25/)
 - [Correo Electrónico](mailto:alex@example.com)
