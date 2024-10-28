@@ -1,6 +1,6 @@
 <h2>
 
-<img align="right" src="https://media.licdn.com/dms/image/v2/D4E03AQHQYw5xLiYh9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689976987838?e=1735171200&v=beta&t=tbi0tVd-fq8x0osrHTh-4CMLRcw9UFE8kP4vHSnCL8I" width="25%">
+<img align="right" src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-man-wearing-jacket-hoodie-in-anonymous-hacker-theme-png-image_9949750.png" width="25%">
 
  Hola, soy Brayan Aguilar, Conocido como Skipper. 👋 
  
